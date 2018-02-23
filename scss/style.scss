@@ -86,9 +86,15 @@ hr {
 
 }
 .carousel-control-prev{
+  width: 175px;
+  margin-top: 9%;
+  height: 136px;
   background-color: black;
 }
 .carousel-control-next{
+  width: 175px;
+  margin-top: 9%;
+  height: 136px;
   background-color: black;
 }
 .hobby-paragraph{
@@ -161,9 +167,9 @@ footer{
 
 /* iphone 7/7plus media query */
 
-@media only screen
-  and (max-device-width: 667px)
-  and (-webkit-min-device-pixel-ratio: 3) {
+@media screen
+  and (max-device-width: 667px){
+
   .about-paragraph{
     width: 95%;
   }
