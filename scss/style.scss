@@ -161,9 +161,9 @@ footer{
 
 /* iphone 7/7plus media query */
 
-@media only screen
-  and (max-device-width: 667px)
-  and (-webkit-min-device-pixel-ratio: 3) {
+@media screen
+  and (max-device-width: 667px){
+    
   .about-paragraph{
     width: 95%;
   }
