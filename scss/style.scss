@@ -158,8 +158,10 @@ footer{
   width: 100%;
   height: 190px;
 }
+
+/* iphone 7/7plus media query */
+
 @media only screen
-  and (min-device-width: 375px)
   and (max-device-width: 667px)
   and (-webkit-min-device-pixel-ratio: 3) {
   .about-paragraph{
