@@ -171,13 +171,11 @@ footer{
   and (max-device-width: 667px){
     .carousel-control-prev{
       width: 90px;
-      margin-top: 9%;
       height: 136px;
       background-color: black;
     }
     .carousel-control-next{
       width: 90px;
-      margin-top: 9%;
       height: 136px;
       background-color: black;
     }
